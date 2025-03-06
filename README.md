@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center"> Hi there, I'm Pyneola! 🐶</h1>
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2U1Y3Ewb2JyMzg5dDIyNXRpMDd1aDB4azJ3OWlva213MGFheGxzNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2xPJm26Rf1EMBTykwG/giphy.gif" width="200"/>
+</p>
 
-<!--
-**Pyneola/pyneola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me  
+- ###  My name is Weera Arsasutcharit
+-  **Computer Engineering Student** | 🛠 Passionate about Technology  
+-  Currently learning **Robotics, Software Development, and IoT**  
+-  Exploring **Algorithm Visualization** 
+-  Always curious and eager to **build, break, and learn**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pyneola&show_icons=true&theme=radical" width="400px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pyneola&layout=compact&theme=radical" width="360px"/>
+</p>
+
+---
+
+###  Connect with Me  
+-  **Email:** pukdezgm@gmail.com  
+-  **Instagram:** [pyneola_](https://www.instagram.com/pyneola_)  
+
+---
