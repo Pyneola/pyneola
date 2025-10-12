@@ -7,8 +7,6 @@
 - ###  My name is Weera Arsasutcharit
 -  **Computer Engineering Student** | 🛠 Passionate about Technology  
 -  Currently learning **Robotics, Software Development, and IoT**  
--  Exploring **Algorithm Visualization** 
--  Always curious and eager to **build, break, and learn**  
 
 ---
 
