@@ -10,14 +10,6 @@
 
 ---
 
-###  GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pyneola&show_icons=true&theme=radical" width="400px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pyneola&layout=compact&theme=radical" width="360px"/>
-</p>
-
----
-
 ###  Connect with Me  
 -  **Email:** pukdezgm@gmail.com  
 -  **Instagram:** [pyneola_](https://www.instagram.com/pyneola_)  
