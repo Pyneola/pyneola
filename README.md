@@ -5,7 +5,7 @@ I build backend services, machine learning models and small hardware systems, an
 
 ### Achievements
 
-- **Champion, JUMP THAILAND Hackathon 2026** (AIS Academy x NIA). 1st of 603 teams with Wathasin, an AI speech-coaching platform.
+- **Champion, JUMP THAILAND Hackathon 2026** ([verified badge](https://www.credly.com/badges/3038fe22-fd13-4d08-a4a2-58b4be51e569/public_url)) (AIS Academy x NIA). 1st of 603 teams with Wathasin, an AI speech-coaching platform.
 - **National Finalist, JUMP THAILAND Hackathon 2025** (AIS Academy x MSDHS). Top 10 of 295 teams with an EMG-controlled robotic hand for upper-limb amputees.
 
 ### Selected projects
