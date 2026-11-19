@@ -1,7 +1,7 @@
 ## Weera Arsasutcharit
 
 Computer Engineering student at Prince of Songkla University, Hat Yai, Thailand.
-I build backend services, machine learning models and small hardware systems, and I am looking for a software engineering internship from November 2027 to March 2028.
+I build backend services, machine learning models and small hardware systems
 
 ### Achievements
 
